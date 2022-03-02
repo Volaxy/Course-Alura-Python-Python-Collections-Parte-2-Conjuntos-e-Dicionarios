@@ -46,3 +46,27 @@ URL do curso -> [Python Collections Parte 2 - Conjuntos e Dicionários](https://
 ### 01 - Outro tipo de Conjunto e Conjuntos de outros Tipos
 * Adicionar novos elementos com `add()`.
 * Evitar que o conjunto seja alterado com `frozenset()`.
+
+## 03 - Dicionários &#x1F516;
+* O que é um dicionário.
+* Verificar se o elemento está dentro do dicionário.
+* Utilizar o `get` para verificação.
+* Criar um dicionário a partir do `dict`.
+* Adicionar um elemento no dicionário.
+* Remover um elemento do dicionário.
+* Mostrar os elementos dentro do dicionário.
+* Usar a função `keys` para pegar as chaves.
+* Usar a função `values` para pegar os valores.
+* Percorrer linha a linha com a função `items`.
+
+### 01 - Dicionários
+* Um **Dicionário** no **Python** é um conjunto *chave* e *valor*.
+* `VARIABLE = { "KEY" : VALUE, ...}` ou `VARIABLE = dict(KEY = ?, VALUE = ?)` para criar um **Dicionário**.
+* `DICTIONARY[KEY]` ou `DICTIONARY.get(KEY)` para acessar o valor de uma chave.
+
+### 02 - Mais Operações de Dicionários
+* `del DICTIONARY[KEY]` para remover um elemento do **Dicionário**.
+* `KEY in DICTIONARY` para verificar se existe uma chave dentro do **Dicionário**.
+* `DICTIONARY.keys()` para acessar as *chaves* do **Dicionário**.
+* `DICTIONARY.values()` para acessar as *valores* do **Dicionário**.
+* `DICTIONARY.items()` para acessar os conjuntos *chave* e *valor* do **Dicionário**.
