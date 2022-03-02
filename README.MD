@@ -70,3 +70,14 @@ URL do curso -> [Python Collections Parte 2 - Conjuntos e Dicionários](https://
 * `DICTIONARY.keys()` para acessar as *chaves* do **Dicionário**.
 * `DICTIONARY.values()` para acessar as *valores* do **Dicionário**.
 * `DICTIONARY.items()` para acessar os conjuntos *chave* e *valor* do **Dicionário**.
+
+## 04 - Variações de Dicionários &#x1F516;
+* Contar quantas vezes aparece uma palavra.
+* Utilizar o `default dict`.
+* Utilizar o `Counter` para contar valores.
+
+### 01 - Default dict
+* Construir um dicionário com valores padrão com `dafultdict()`.
+
+### 02 - Counter
+* O `Counter()` conta cada elemento da lista e cria um dicionário com os valores.
