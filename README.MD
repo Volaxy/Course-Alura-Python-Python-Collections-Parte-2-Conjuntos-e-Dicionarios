@@ -81,3 +81,10 @@ URL do curso -> [Python Collections Parte 2 - Conjuntos e Dicionários](https://
 
 ### 02 - Counter
 * O `Counter()` conta cada elemento da lista e cria um dicionário com os valores.
+
+## 05 - Praticando &#x1F516;
+* Mostrar o quão frequente são as letras.
+* Ver aparições de elementos e o total de aparições.
+
+### 01 - Colocando Tudo em Prática
+* Buscar o total de letras de um texto.
