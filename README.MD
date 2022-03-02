@@ -19,7 +19,7 @@ URL do curso -> [Python Collections Parte 2 - Conjuntos e Dicionários](https://
 ## Atalhos &#x2328;
 *
 
-## 01 - Conjuntos &#x1F516;O que são conjuntos;
+## 01 - Conjuntos &#x1F516;
 * O que são Conjuntos.
 * Criar conjuntos.
 * Utilizar o `|` para juntar conjuntos.
@@ -36,3 +36,13 @@ URL do curso -> [Python Collections Parte 2 - Conjuntos e Dicionários](https://
 ### 02 - Mais Operações de Conjuntos
 * Usar o `&` para representar a interseção de 2 conjuntos.
 * Usar o `-` como exclusão entre 2 conjuntos.
+
+## 02 - Operações &#x1F516;
+* Modificar o conjunto em tempo real.
+* Congelar o conjunto com o `frozenset`.
+* Tirar a duplicidade de uma String.
+* Adicionar elementos no conjunto.
+
+### 01 - Outro tipo de Conjunto e Conjuntos de outros Tipos
+* Adicionar novos elementos com `add()`.
+* Evitar que o conjunto seja alterado com `frozenset()`.
